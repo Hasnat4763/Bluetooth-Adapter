@@ -19,6 +19,7 @@ I have changed the antenna model to another one
 ![image](https://github.com/user-attachments/assets/b05e1de4-907c-47c9-812e-74ded7bf598c)
 
 Also I made the bottom part of the case
+
 ![image](https://github.com/user-attachments/assets/ffbec7cd-25be-4b27-a49e-22ef0a623d9a)
 
 **Total time spent: 1hr**
