@@ -16,6 +16,7 @@ Then designed the schematic and the PCB
 # June 4th: Updated the schematic a bit and designed the bottom plate for the casing
 
 I have changed the antenna model to another one
+
 ![image](https://github.com/user-attachments/assets/b05e1de4-907c-47c9-812e-74ded7bf598c)
 
 Also I made the bottom part of the case
